@@ -3,3 +3,8 @@ scipy
 matplotlib
 pandas
 jupyter
+matplotlib
+ipywidgets
+ipympl
+ipython
+
